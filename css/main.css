@@ -192,7 +192,14 @@ h6{font-size: 12px; color: #fff; font-weight: normal}
 	margin-top: 40px;
 	margin-bottom: 25px;
 }
+.container-fluid > h2{
+	margin-top: 40px;
+	margin-bottom: 25px;
+}
 .container > h3{
+	margin-top: 20px;
+}
+.container-fluid > h3{
 	margin-top: 20px;
 }
 .color{
@@ -899,6 +906,7 @@ blockquote h2 i{
 .content {font-size: 14px;}
 .content p { margin: 0 0 2em; }
 .container{font-size: 14px;}
+.container-fluid{font-size: 14px;}
 .text-block{
 	/*border-top: 2px solid #2d3e43;
 	border-bottom: 3px solid #243135;
@@ -1400,6 +1408,9 @@ footer .info-block i{
 	.container > h2{
 		margin-top: 20px;
 	}
+    .container-fluid > h2{
+		margin-top: 20px;
+	}
 	.navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top{
 		margin: 0;
 		position: relative;
@@ -1447,6 +1458,9 @@ footer .info-block i{
 		padding: 0;
 	}
 	.container{
+		padding:0 20px;
+	}
+	.container-fluid{
 		padding:0 20px;
 	}
 
