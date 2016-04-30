@@ -100,7 +100,7 @@ body {
 .form input, .form textarea{
 	border: 1px solid #4D5F65;
 	border-radius: 0;
-	background: #243135;
+	background: #fff;
 	color: #87989E;
 	margin-top: 15px;
 	margin-bottom: 0;
