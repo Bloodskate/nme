@@ -91,7 +91,7 @@ body {
 	font-size: 1.5em;
 	font-family: 'Open Sans', Helvetica, Helvetica Nue, Arial, sans-serif;
 	height: 100%;
-	background: #2d3e43;
+	background:green;
 	color: #b1c1c6;
 }
 
@@ -628,7 +628,7 @@ blockquote h2 i{
 
 .navbar .btn-navbar{
 	background-image: none;
-	background: #39ae77;
+	background: red;
 }
 .navbar .navbar-inner{
 	background-color: #243135;
