@@ -39,7 +39,7 @@ textarea {
     resize: vertical;
 }
 a{
-	color: #E81B1B;
+	color: #39AE77;
 }
 a:hover{
 	text-decoration: none;
@@ -48,10 +48,10 @@ a:hover{
 a:focus{
 	outline: none;
 	text-decoration: none;
-	color: #E81B1B;
+	color: #39AE77;
 }
 a.trigger{
-	border-bottom: 1px dashed #E81B1B;
+	border-bottom: 1px dashed #39AE77;
 }
 a.trigger:hover{
 	border-bottom: 1px dashed #fff;
@@ -115,7 +115,7 @@ body {
 	background: #fff;
 }
 .form input:focus, .form textarea:focus{
-	border: 1px solid #E81B1B;
+	border: 1px solid #39AE77;
 	box-shadow: none;
 	outline: none;
 }
@@ -203,11 +203,11 @@ h6{font-size: 12px; color: #fff; font-weight: normal}
 	margin-top: 20px;
 }
 .color{
-	color: #E81B1B;
+	color: #39AE77;
 }
 table caption{
 	padding: 10px 0;
-	background: #E81B1B;
+	background: #39AE77;
 	color: #fff;
 	font-size: 16px;
 	text-transform: uppercase;
@@ -238,8 +238,8 @@ p + .btn{
 	padding: 11px 25px
 }
 .btn{
-	border: 1px solid #E81B1B;
-	background: #E81B1B;
+	border: 1px solid #39AE77;
+	background: #39AE77;
 	background-image: none;
 	text-shadow: none;
 	color: #fff;
@@ -249,7 +249,7 @@ p + .btn{
 	box-shadow: none;
 }
 .btn.disabled{
-	background: #E81B1B;
+	background: #39AE77;
 	color: #fff;
 }
 .btn:focus{
@@ -257,11 +257,11 @@ p + .btn{
 	outline: none;
 }
 .btn:focus{
-	background: #E81B1B;
+	background: #39AE77;
 }
 .btn-primary, .btn-primary:focus{
 	background: none;
-	border: 1px solid #E81B1B;
+	border: 1px solid #39AE77;
 }
 .btn:hover:not(.disabled){
 	background: none;
@@ -269,11 +269,11 @@ p + .btn{
 	transition: all ease-in-out .3s !important;
 }
 .btn.btn-primary:hover{
-	background: #E81B1B;
+	background: #39AE77;
 }
 .btn-primary.disabled, .btn-primary.disabled:hover{
 	background: none;
-	border: 1px solid #E81B1B;
+	border: 1px solid #39AE77;
 }
 p .btn{
 	margin-right: 5px;
@@ -304,7 +304,7 @@ p .btn{
     background-color: #fff;
 }
 .progress .bar{
-	background-color: #E81B1B;
+	background-color: #39AE77;
     background-image: none;
     border-radius: 0;
     box-shadow: none;
@@ -359,12 +359,12 @@ p .btn{
 }
 
 .pagination ul > li.active > a{
-	background: #E81B1B;
+	background: #39AE77;
 	color: #fff;
 }
 
 .label, .badge {
-    background-color: #E81B1B;
+    background-color: #39AE77;
     color: #FFFFFF;
     font-weight: bold;
     padding: 5px 4px;
@@ -401,7 +401,7 @@ p .btn{
 	padding: 10px 0;
 	width: 50px;
 	text-align: center;
-	background: #E81B1B;
+	background: #39AE77;
 	color: #fff;
 	font-size: 25px;
 	border-radius: 0;
@@ -412,10 +412,10 @@ p .btn{
 	color: #fff;
 }
 .nav-tabs > li > a:hover, .nav-tabs > li > a:focus {
-    background-color: #E81B1B;
+    background-color: #39AE77;
     text-decoration: none;
 	border: 1px solid #4D5F65;
-	border-bottom-color: #E81B1B;
+	border-bottom-color: #39AE77;
 	color: #fff;
 	outline: none;
 }
@@ -446,9 +446,9 @@ p .btn{
 	margin-bottom: 5px;
 }
 .accordion-heading{
-	background: #E81B1B;
+	background: #39AE77;
 	color: #fff;
-	border: 2px solid #E81B1B;
+	border: 2px solid #39AE77;
 }
 .accordion-heading a{
 	color: #fff;
@@ -520,7 +520,7 @@ p .btn{
 	opacity: 1;
 }
 .carousel-control:hover{
-	background: #E81B1B;
+	background: #39AE77;
 	opacity: 1;
 }
 .alert{
@@ -529,7 +529,7 @@ p .btn{
 	text-shadow: none;
 	color: #fff;
 	border: none;
-	background: #E81B1B;
+	background: #39AE77;
 }
 .alert-inverse{background: #243135;}
 .dark-bg .alert-inverse{background: #fff;}
@@ -653,7 +653,7 @@ blockquote h2 i{
 .navbar .navbar-inner .nav > li.active > a:hover, 
 .navbar .navbar-inner .nav > li.active> a:focus {
     border: 1px solid #3e4c51;
-	background: #E81B1B;
+	background: #39AE77;
 	color: #fff;
 }
 .navbar-inner .nav > li > a {
@@ -720,7 +720,7 @@ blockquote h2 i{
 	border-radius: 0;
 }
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .dropdown-submenu:hover > a, .dropdown-submenu:focus > a {
-    background-color: #E81B1B;
+    background-color: #39AE77;
 	background-image: none;
 	color: #fff;
 }
@@ -729,7 +729,7 @@ blockquote h2 i{
 .nav-collapse.collapse .nav > li > a:focus,
 .nav-collapse.collapse .dropdown-menu a:hover,
 .nav-collapse.collapse .dropdown-menu a:focus {
-    background-color: #E81B1B;
+    background-color: #39AE77;
     background-image:  none;
 	color: #fff !important;
 }
@@ -810,7 +810,7 @@ blockquote h2 i{
 	margin-bottom: 0;
 }
 .text i{
-	color: #E81B1B;
+	color: #39AE77;
 	font-size: 50px;
 }
 .text.no-aminate{
@@ -845,7 +845,7 @@ blockquote h2 i{
 	transition: color ease-in-out .3s;
 }
 .parallax .toSection:hover{
-	color: #E81B1B;
+	color: #39AE77;
 }
 .text i:hover{
 	color: #fff;
@@ -976,7 +976,7 @@ blockquote h2 i{
 	transition: color ease-in-out .2s;
 }
 .link-block li a:hover{
-	color: #E81B1B;
+	color: #39AE77;
 }
 
 /*services*/
@@ -996,7 +996,7 @@ blockquote h2 i{
     overflow: hidden;
     position: relative;
     text-align: center;
-	background-color: #E81B1B;
+	background-color: #39AE77;
 	transition: all ease-in-out .2s;
 }
 .light-bg .services-block article:hover .icon-service{
@@ -1023,14 +1023,14 @@ blockquote h2 i{
 .second-service .block-icon{
 	width: 170px;
 	height: 170px;
-	background: #E81B1B;
+	background: #39AE77;
 	margin: 0 auto 20px;
 	border-radius: 100px;
 	border: 4px solid transparent;
 	transition: all ease-out .3s;
 }
 .second-service article:hover .block-icon{
-	border: 4px solid #E81B1B;
+	border: 4px solid #39AE77;
 	background: none;
 }
 .block-icon i{
@@ -1063,7 +1063,7 @@ blockquote h2 i{
 }
 .thumbnails h3 a, .thumbnails h3{
 	font-size: 15px;
-	color: #E81B1B;
+	color: #39AE77;
 }
 .thumbnails h3{
 	color: #333;
@@ -1103,7 +1103,7 @@ i{
 }
 .testimonials-block blockquote{
 	border: 2px solid #4D5F65;
-	border-bottom: 3px solid #E81B1B;
+	border-bottom: 3px solid #39AE77;
 	padding: 15px;
 	margin-bottom: 0;
 	font-style: italic;
@@ -1111,7 +1111,7 @@ i{
 	line-height: 22px;
 }
 .testimonials-block .caret {
-	border-top: 7px solid #E81B1B;
+	border-top: 7px solid #39AE77;
 	border-width: 7px;
     font-size: 12px;
     height: 0;
@@ -1147,7 +1147,7 @@ i{
 }
 .price-block h3{
 	padding: 10px 0;
-	background: #E81B1B;
+	background: #39AE77;
 	text-align: center;
 	margin-bottom: 0;
 }
@@ -1171,7 +1171,7 @@ i{
 	background: #fff;
 }
 .price-table .price{
-	color: #E81B1B;
+	color: #39AE77;
 	font-size: 54px;
 }
 .price-features{
@@ -1322,7 +1322,7 @@ h3 + .info-panel{
 	color: #fff;
 }	
 .social ul li a:hover{
-	background: #E81B1B;
+	background: #39AE77;
 }
 	
 	
@@ -1332,7 +1332,7 @@ footer{
 }
 footer h4{
 	padding-bottom: 5px;
-	color: #E81B1B;
+	color: #39AE77;
 	border-bottom: 2px solid #243135;
     box-shadow: 0 1px 0 0 #EAEAEA;
 }
